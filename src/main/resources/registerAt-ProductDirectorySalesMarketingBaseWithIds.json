@@ -1,0 +1,8 @@
+{
+  "productServiceDirectoryEntryReference" : "PSDER2112",
+  "productServicesFeaturesAndOptions" : "Description of product features and options",
+  "productServicePricingTable" : "Allowed price ranges by credit grade/customer type",
+  "productServiceSalesMarketingDirectoryEntryReference" : "PSSMDER6760",
+  "productServiceSalesMaterial" : "Description of sales material",
+  "productServiceFeesPenaltiesTable" : "Applicable fees"
+}

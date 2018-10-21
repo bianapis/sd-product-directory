@@ -1,0 +1,8 @@
+{
+  "productServiceDirectoryEntryReference" : "PDSER2112",
+  "productServiceConfigurationParameterDescription" : "configuration description",
+  "productServiceOperatingSchedule" : "tasks",
+  "productServiceOperationsDirectoryEntryReference" : "PSODER555564",
+  "productServiceConfigurationParameterType" : "configuration type name",
+  "productServiceConfigurationParameterSetting" : "default and possible value range"
+}
